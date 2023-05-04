@@ -38,11 +38,12 @@ Simplied Chinese
 
 A translated version of the survey to English
 
-### 2.2 Codebook: _This file contains two tabs_
+### 2.2 Codebooks: 
+- [Raw data](https://github.com/binhle23/US-China-Competition/blob/main/codebook_raw.pdf): List and description of all variables in the **raw** data file. _Date created: April 05, 2023_
+- [Clean data](https://github.com/binhle23/US-China-Competition/blob/main/codebook_clean.pdf): List and description of all variables in the **clean** data file. _Date created: April 05, 2023_
 
-- _Raw_: List and description of all variables in the **raw** data file. 
-- _Clean_: List and description of all variables in the **clean** data file
 
+### 2.3 Data
 
 ## Software Implementation
 
