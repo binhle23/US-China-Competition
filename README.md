@@ -34,9 +34,14 @@ Simplied Chinese
 
 ## 2. DATA AND FILE OVERVIEW
 
+[Data reference](https://github.com/binhle23/US-China-Competition/tree/main/Data%20reference): This folder includes information helpful to understand the dataset, including: 
+- Survey
+- Codebooks for both raw and clean datasets
+- Datasets: raw and clean
+
 ### 2.1 Survey: 
 
-A translated version of the survey to English
+A translated version of the [survey](https://github.com/binhle23/US-China-Competition/blob/main/Data%20reference/Survey.pdf) to English
 
 ### 2.2 Codebooks: 
 - [Code book for raw data](https://github.com/binhle23/US-China-Competition/blob/main/codebook_raw.pdf): List and description of all variables in the **raw** data file. _Date created: April 05, 2023_
