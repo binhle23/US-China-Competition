@@ -34,7 +34,15 @@ Simplied Chinese
 
 ## 2. DATA AND FILE OVERVIEW
 
-### 2.1 
+### 2.1 Survey: 
+
+A translated version of the survey to English
+
+### 2.2 Codebook: _This file contains two tabs_
+
+- _Raw_: List and description of all variables in the **raw** data file. 
+- _Clean_: List and description of all variables in the **clean** data file
+
 
 ## Software Implementation
 
