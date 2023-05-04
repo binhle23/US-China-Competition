@@ -3,7 +3,7 @@ setwd ()   #insert folder path
 
 
 #Import data
-clean = read.csv("data_clean.csv")
+clean = read.csv("data_raw.csv")
 
 #Install package: Uncomment if you haven't install these packages:
 # install.packages("tidyverse")
