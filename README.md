@@ -39,8 +39,8 @@ Simplied Chinese
 A translated version of the survey to English
 
 ### 2.2 Codebooks: 
-- _codebook_raw_: List and description of all variables in the **raw** data file. Date created: April 05, 2023
-- _codebook_clean_: List and description of all variables in the **clean** data file. Date created: April 05, 2023
+- [Raw data](https://github.com/binhle23/US-China-Competition/blob/main/codebook_raw.pdf)): List and description of all variables in the **raw** data file. Date created: April 05, 2023
+- [Clean data](https://github.com/binhle23/US-China-Competition/blob/main/codebook_clean.pdf): List and description of all variables in the **clean** data file. Date created: April 05, 2023
 
 
 ## Software Implementation
