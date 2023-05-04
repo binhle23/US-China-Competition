@@ -16,7 +16,6 @@ Assistant Professor of Technology, Economy, and Global Affairs,
 University of Notre Dame, Keough School of Global Affairs
 3171 Jenkins Nanovic Hall, Notre Dame, Indiana 46556, USA
 
-[Email]: yong.s.lee@nd.edu
 
 
 ## Software Implementation
