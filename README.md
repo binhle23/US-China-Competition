@@ -38,10 +38,9 @@ Simplied Chinese
 
 A translated version of the survey to English
 
-### 2.2 Codebook: _This file contains two tabs_
-
-- _Raw_: List and description of all variables in the **raw** data file. 
-- _Clean_: List and description of all variables in the **clean** data file
+### 2.2 Codebooks: 
+- _codebook_raw_: List and description of all variables in the **raw** data file. Date created: April 05, 2023
+- _codebook_clean_: List and description of all variables in the **clean** data file. Date created: April 05, 2023
 
 
 ## Software Implementation
