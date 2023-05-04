@@ -39,6 +39,10 @@ Simplied Chinese
 - Codebooks for both raw and clean datasets
 - Datasets: raw and clean
 
+[Code file](https://github.com/binhle23/US-China-Competition/tree/main/Code%20files): This folder includes all the code files:
+- Code to clean data
+- Code to produce tables and figures as presented in the paper
+
 ### 2.1 Survey: 
 
 A translated version of the [survey](https://github.com/binhle23/US-China-Competition/blob/main/Data%20reference/Survey.pdf) to English
@@ -50,8 +54,8 @@ A translated version of the [survey](https://github.com/binhle23/US-China-Compet
 
 ### 2.3 Data
 
-- [Raw data]: _File updated on Jun 23, 2022_
-- [Clean data] _File updated on July 10, 2022_
+- [Raw data](https://github.com/binhle23/US-China-Competition/blob/main/Data%20reference/data_raw.csv): _File updated on Jun 23, 2022_
+- [Clean data](https://github.com/binhle23/US-China-Competition/blob/main/Data%20reference/data_clean.csv) _File updated on July 10, 2022_
 
 ## Software Implementation
 
