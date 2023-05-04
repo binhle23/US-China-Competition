@@ -50,8 +50,8 @@ A translated version of the [survey](https://github.com/binhle23/US-China-Compet
 
 ### 2.3 Data
 
-- [Raw data](https://github.com/binhle23/US-China-Competition/blob/main/Data_Raw.csv): _File updated on Jun 23, 2022_
-- [Clean data](https://github.com/binhle23/US-China-Competition/blob/main/Data_Clean.csv) _File updated on July 10, 2022_
+- [Raw data]: _File updated on Jun 23, 2022_
+- [Clean data] _File updated on July 10, 2022_
 
 ## Software Implementation
 
