@@ -1,10 +1,12 @@
-# US-China-Competition
+# US-China Tech Decoupling Increases Willingness to Share
+Personal Data in China
 by
 Yong Suk Lee,
 Benjamin Larsen,
 Jingxi Wu
 
-> This is a document with information and instruction for data reuse in the paper **Name of paper** submitted to the _PNAS Nexus_. 
+> This is a document with information and instruction for data reuse in the paper **US-China Tech Decoupling Increases Willingness to Share
+Personal Data in China** submitted to the _PNAS Nexus_. 
 
 ### Information of corresponding author: 
 
