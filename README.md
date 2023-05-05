@@ -54,11 +54,16 @@ A translated version of the [survey](https://github.com/binhle23/US-China-Compet
 ### 2.3 Data
 
 - [Raw data](https://github.com/binhle23/US-China-Competition/blob/main/Data%20reference/data_raw.csv): _File updated on Jun 23, 2022_
-- [Clean data](https://github.com/binhle23/US-China-Competition/blob/main/Data%20reference/data_clean.csv) _File updated on July 10, 2022_
+- [Clean data](https://github.com/binhle23/US-China-Competition/blob/main/Data%20reference/data_clean.csv): _File updated on July 10, 2022_
 
 ### 2.4 Code files
-- [Figure 1](): _File updated on May 5, 2023
+- [Figure 1](https://github.com/binhle23/US-China-Competition/blob/main/Code%20files/figure%201.R): _File updated on May 5, 2023_
+- [Figure 2](https://github.com/binhle23/US-China-Competition/blob/main/Code%20files/figure%202.R): _File updated on May 5, 2023_
+- [Figure 3](https://github.com/binhle23/US-China-Competition/blob/main/Code%20files/figure%203.R): _File updated on May 5, 2023_
+- [Figure 4](https://github.com/binhle23/US-China-Competition/blob/main/Code%20files/figure%204.R): _File updated on May 5, 2023_
+- [Figure 5](https://github.com/binhle23/US-China-Competition/blob/main/Code%20files/figure%205.R): _File updated on May 5, 2023_
+- [Figure 6](https://github.com/binhle23/US-China-Competition/blob/main/Code%20files/figure%206.R): _File updated on May 5, 2023_
 
 ## Software Implementation
 
-This paper uses R version 4.2.2 to generate the results. However, it could be adapted to use with other softwares or other versions of R. For more information, please refer to 
+This paper uses R version 4.2.2 to generate the results. However, it could be adapted to use with other softwares or other versions of R. For more information, please refer to [The Comprehensive R Archive Network](https://cran.r-project.org/)
