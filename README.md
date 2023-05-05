@@ -63,7 +63,10 @@ A translated version of the [survey](https://github.com/binhle23/US-China-Compet
 - [Figure 4](https://github.com/binhle23/US-China-Competition/blob/main/Code%20files/figure%204.R): _File updated on May 5, 2023_
 - [Figure 5](https://github.com/binhle23/US-China-Competition/blob/main/Code%20files/figure%205.R): _File updated on May 5, 2023_
 - [Figure 6](https://github.com/binhle23/US-China-Competition/blob/main/Code%20files/figure%206.R): _File updated on May 5, 2023_
+- [Tables](https://github.com/binhle23/US-China-Competition/blob/main/Code%20files/tables.R): Code files for **Table 1** and **Table 2**. _File updated on May 5, 2023_
 
 ## Software Implementation
 
 This paper uses R version 4.2.2 to generate the results. However, it could be adapted to use with other softwares or other versions of R. For more information, please refer to [The Comprehensive R Archive Network](https://cran.r-project.org/)
+
+> Data references, code files and this README file were created by Binh Le
