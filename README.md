@@ -1,10 +1,11 @@
-# US-China-Competition
+# US-China Tech Decoupling Increases Willingness to Share Personal Data in China
 by
 Yong Suk Lee,
 Benjamin Larsen,
 Jingxi Wu
 
-> This is a document with information and instruction for data reuse in the paper **Name of paper** submitted to the _PNAS Nexus_. 
+> This is a document with information and instruction for data reuse in the paper **US-China Tech Decoupling Increases Willingness to Share
+Personal Data in China** submitted to the _PNAS Nexus_. 
 
 ### Information of corresponding author: 
 
@@ -23,13 +24,11 @@ University of Notre Dame, Keough School of Global Affairs
 
 ### 1.2 Geographic location of data collection:
 
-We commissioned the survey firm Qualtrics to conduct the survey on a representative sample of the Chinese internet population. We collected 3,146 responses that were distributed across China’s provinces.
+We commissioned the survey firm Qualtrics to conduct the survey on a representative sample of the Chinese internet population. We collected responses that were distributed across China’s provinces.
 
 ### 1.3 Language of the survey:
 
 Simplied Chinese
-
-### 1.4 Data collection funding source: 
 
 
 ## 2. DATA AND FILE OVERVIEW
@@ -39,19 +38,26 @@ Simplied Chinese
 - Codebooks for both raw and clean datasets
 - Datasets: raw and clean
 
+[Code file](https://github.com/binhle23/US-China-Competition/tree/main/Code%20files): This folder includes all the code files:
+- Code to clean data
+- Code to produce tables and figures as presented in the paper
+
 ### 2.1 Survey: 
 
 A translated version of the [survey](https://github.com/binhle23/US-China-Competition/blob/main/Data%20reference/Survey.pdf) to English
 
 ### 2.2 Codebooks: 
-- [Code book for raw data](https://github.com/binhle23/US-China-Competition/blob/main/codebook_raw.pdf): List and description of all variables in the **raw** data file. _Date created: April 05, 2023_
-- [Code book for clean data](https://github.com/binhle23/US-China-Competition/blob/main/codebook_clean.pdf): List and description of all variables in the **clean** data file. _Date created: April 05, 2023_
+- [Code book for raw data](https://github.com/binhle23/US-China-Competition/blob/main/codebook_raw.pdf): List and description of all variables in the **raw** data file. _Date updated: April 05, 2023_
+- [Code book for clean data](https://github.com/binhle23/US-China-Competition/blob/main/codebook_clean.pdf): List and description of all variables in the **clean** data file. _Date updated: April 05, 2023_
 
 
 ### 2.3 Data
 
-- [Raw data]: _File updated on Jun 23, 2022_
-- [Clean data] _File updated on July 10, 2022_
+- [Raw data](https://github.com/binhle23/US-China-Competition/blob/main/Data%20reference/data_raw.csv): _File updated on Jun 23, 2022_
+- [Clean data](https://github.com/binhle23/US-China-Competition/blob/main/Data%20reference/data_clean.csv) _File updated on July 10, 2022_
+
+### 2.4 Code files
+- [Figure 1](): _File updated on May 5, 2023
 
 ## Software Implementation
 
