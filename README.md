@@ -14,6 +14,8 @@ Assistant Professor of Technology, Economy, and Global Affairs,
 University of Notre Dame, Keough School of Global Affairs
 3171 Jenkins Nanovic Hall, Notre Dame, Indiana 46556, USA
 
+Repository supporter: Binh Le
+
 
 ## 1. GENERAL INFORMATION
 
@@ -69,4 +71,3 @@ A translated version of the [survey](https://github.com/binhle23/US-China-Compet
 
 This paper uses R version 4.2.2 to generate the results. However, it could be adapted to use with other softwares or other versions of R. For more information, please refer to [The Comprehensive R Archive Network](https://cran.r-project.org/)
 
-> Data references, code files and this README file were created by Binh Le
