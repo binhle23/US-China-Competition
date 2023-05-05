@@ -14,7 +14,7 @@ Assistant Professor of Technology, Economy, and Global Affairs,
 University of Notre Dame, Keough School of Global Affairs
 3171 Jenkins Nanovic Hall, Notre Dame, Indiana 46556, USA
 
-Repository supporter: Binh Le
+_Repository supporter_: Binh Le
 
 
 ## 1. GENERAL INFORMATION
